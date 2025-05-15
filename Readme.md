@@ -1,3 +1,3 @@
 # Multi-Stage Abductive Learning
 
-- TBD
+- Code for my undergraduate thesis: **Research on the Acceleration Methods for Abductive Learning**
